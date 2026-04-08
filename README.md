@@ -173,7 +173,7 @@ Usuário → Front-end → API → Banco
 ↓
 IA
 
-## 11. Tecnologias Sugeridas
+## 11. Tecnologias Utilizadas
 
 - Front-end
   -  React
